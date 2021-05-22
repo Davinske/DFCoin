@@ -1,7 +1,4 @@
 src/*.exe
-src/davcoin
-src/davcoind
-src/test_davcoin
 .*.swp
 *.*~*
 *.bak
@@ -14,12 +11,10 @@ src/test_davcoin
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-davcoin-qt
 davcoin-Qt.app
 
 # Unit-tests
 Makefile.test
-davcoin-qt_test
 
 # Resources cpp
 qrc_*.cpp
