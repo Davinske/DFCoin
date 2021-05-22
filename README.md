@@ -1,4 +1,4 @@
-davcoin integration/staging tree
+DFC integration/staging tree
 ================================
 
 http://www.davcoin.org
