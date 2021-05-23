@@ -4,7 +4,7 @@ DFC integration/staging tree
 http://www.davcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 davcoin Developers
+Copyright (c) 2011-2014 Davcoin Developers
 
 What is davcoin?
 ----------------
