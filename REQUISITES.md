@@ -5,8 +5,8 @@
 - Internet Connectivity
 
 
-### UBUNTU DEPENDENCIES: `
-
+### UBUNTU DEPENDENCIES: 
+```
 sudo apt-get install build-essential gcc make perl dkms
 
 sudo apt-get install git
@@ -36,4 +36,4 @@ sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler
 sudo apt-get install openssl1.0
 
 sudo apt-get install libssl1.0-dev 
-`
+```
